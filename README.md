@@ -1,6 +1,13 @@
 # 🏗️ TerraVision
 ### Bringing Spatial Intelligence to the Skeleton of the Building
 **Ironsite × UMD Startup Shell Hackathon · February 2026**
+## 🎥 Video Presentation
+
+A full walkthrough of TerraVision, including live demo:
+
+[Watch on YouTube →](https://youtu.be/KZsGjBpss1A)
+
+
 
 ## Inspiration
 
