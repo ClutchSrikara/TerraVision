@@ -157,8 +157,8 @@ TerraVision/
 │
 └── data/
     ├── inputs/
-    │   ├── blueprint.jpg          ← your blueprint image (add this)
-    │   ├── site_partial.jpg       ← partial site photo (add this)
+    │   ├── blueprint.jpg          
+    │   ├── site_partial.jpg       
     │   └── materials_manifest.txt
     └── outputs/                   ← results saved here
 ```
