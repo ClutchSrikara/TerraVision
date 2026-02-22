@@ -96,15 +96,3 @@ Materials text   ──┘         ↓
                      Progress % + Gap analysis + Materials + Next steps
 ```
 
----
-
-## Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: initial TerraVision pipeline"
-git remote add origin https://github.com/ClutchSrikara/TerraVision.git
-git branch -M main
-git push -u origin main
-```
