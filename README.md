@@ -44,7 +44,7 @@ YOLOv8 scans the site photo and detects what is physically present in the frame.
 ### 3. Spatial Diff Engine
 Our diff engine compares the blueprint dataset with the detected site dataset and flags every gap and mismatch.
 
-### 4. Reasoning Layer (LLM)
+### 4. LLM Reasoning and Action Planning Layer
 Claude takes those mismatches and converts them into a human-readable action plan.
 
 Everything is wrapped in a **Streamlit web application** that works on any device directly on site.
