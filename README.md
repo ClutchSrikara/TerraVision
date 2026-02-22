@@ -1,4 +1,6 @@
 # 🏗️ TerraVision
+### Bringing Spatial Intelligence to the Skeleton of the Building
+**Ironsite × UMD Startup Shell Hackathon · February 2026**
 
 ## Inspiration
 
@@ -129,28 +131,6 @@ The long-term vision is a system where workers can see the digital blueprint anc
 - Claude (LLM reasoning layer)
 - Streamlit
 - IFC model support
-
----
-
-
-
-
-
-# 🏗️ TerraVision
-### AI Construction Progress Analyzer
-**Ironsite × UMD Startup Shell Hackathon · February 2026**
-
----
-
-## What It Does
-
-Upload a **blueprint**, a **site photo**, and a **materials manifest**, TerraVision tells you:
-
-- **How complete** the construction is (%)
--  **What's missing** vs the blueprint
-- **What's wrong** (misaligned, wrong size, wrong count)
-- **What materials** are still needed
--  **What to do next** (prioritized)
 
 ---
 
