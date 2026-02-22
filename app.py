@@ -196,7 +196,7 @@ if "result" in st.session_state:
                         unsafe_allow_html=True)
 
         st.divider()
-        with st.expander("🔬 Raw Pipeline Data"):
+        with st.expander("Raw Pipeline Data"):
             raw = st.session_state.get("raw", {})
             t1, t2, t3 = st.tabs(["Blueprint", "Photo", "Diff"])
             with t1: st.json(raw.get("blueprint_data", {}))
