@@ -1,0 +1,121 @@
+{
+  "blueprint_data": {
+    "structural_rectangles": [
+      {
+        "x": 52,
+        "y": 513,
+        "width": 1226,
+        "height": 489,
+        "area": 599514
+      },
+      {
+        "x": 105,
+        "y": 836,
+        "width": 1128,
+        "height": 309,
+        "area": 348552
+      },
+      {
+        "x": 267,
+        "y": 667,
+        "width": 331,
+        "height": 392,
+        "area": 129752
+      },
+      {
+        "x": 745,
+        "y": 667,
+        "width": 324,
+        "height": 392,
+        "area": 127008
+      },
+      {
+        "x": 688,
+        "y": 1441,
+        "width": 472,
+        "height": 25,
+        "area": 11800
+      }
+    ],
+    "horizontal_lines": 216,
+    "vertical_lines": 135,
+    "large_openings": 4,
+    "total_regions": 5,
+    "summary": "5 regions | 216H / 135V lines | 4 large openings"
+  },
+  "photo_data": {
+    "method": "yolov8",
+    "detections": [],
+    "class_counts": {},
+    "total_objects": 0,
+    "summary": "YOLOv8: 0 objects \u2014 "
+  },
+  "diff_data": {
+    "blueprint_summary": "5 regions | 216H / 135V lines | 4 large openings",
+    "photo_summary": "YOLOv8: 0 objects \u2014 ",
+    "manifest_items": [
+      "- 2x windows (4-pane, black aluminum frame, each 4'6\" wide x 5' tall)",
+      "- Window sill height: 3' from counter surface",
+      "- 1x wooden counter shelf (13'6\" long x 12\" deep)",
+      "- 3x metal shelf brackets (spaced 14\" apart)",
+      "- 2x electrical outlets (duplex, mounted between windows)",
+      "- Sage green paint (lower half of wall)",
+      "- White paint (upper half of wall)",
+      "- Wood laminate flooring",
+      "- 6x bar stools (round wood seat, black hairpin legs)",
+      "- Stool spacing: alternating 18\" and 14\" gaps"
+    ],
+    "structural_comparison": {
+      "blueprint_openings": 4,
+      "detected_openings": 0,
+      "missing_openings": 4,
+      "blueprint_regions": 5,
+      "detected_regions": 0
+    },
+    "estimated_progress_pct": 0,
+    "flags": [
+      "\u26a0\ufe0f  4 opening(s) in blueprint not found in photo",
+      "\u274c Early stage \u2014 under 40% of blueprint complexity present"
+    ]
+  },
+  "analysis": {
+    "progress_percentage": 30,
+    "progress_summary": "The counter shelf is partially installed with brackets and one window is in place, but the second window is not yet installed (only rough framing/stud wall visible), no finishing work has been done, and no furniture is on site.",
+    "completed_items": [
+      "1x window (left side) \u2014 4-pane, black aluminum frame, appears approximately 4'6\" wide x 5' tall, matching blueprint spec",
+      "1x wooden counter shelf \u2014 partially installed spanning the wall width, appears to be roughly 12\" deep as specified",
+      "Metal shelf brackets \u2014 black metal L-brackets visible mounted to the wall supporting the counter"
+    ],
+    "missing_items": [
+      "1x window (right side) \u2014 only rough stud framing and a narrow slit opening visible; the full 4'6\" x 5' 4-pane black aluminum window is not installed",
+      "6x bar stools (round wood seat, black hairpin legs) \u2014 none present on site",
+      "Sage green paint (lower half of wall) \u2014 walls are bare drywall/plaster with visible patches and mud",
+      "White paint (upper half of wall) \u2014 walls are unpainted, raw finish",
+      "Wood laminate flooring \u2014 floor appears to be bare concrete/subfloor",
+      "2x electrical outlets (duplex, mounted between windows) \u2014 only one outlet box/plate visible on the right stud wall; the blueprint calls for 2 duplex outlets mounted between the two windows"
+    ],
+    "incorrect_items": [
+      "Right window opening \u2014 the rough framing on the right side shows a narrow window/slit that is significantly smaller than the blueprint-specified 4'6\" wide x 5' tall 4-pane window; the stud wall framing does not match the blueprint opening size",
+      "Counter shelf length \u2014 the shelf appears to terminate at or near the right-side stud framing; it may not reach the full 13'6\" specified in the blueprint, and the right side overhang of 18\" past the last bracket is unclear",
+      "Shelf bracket count/spacing \u2014 the blueprint specifies 3 brackets spaced 14\" apart centered under the shelf; the site photo shows what appears to be 4-5 black brackets unevenly distributed, which does not match the blueprint specification of 3 brackets at 14\" spacing",
+      "Sub-counter framing \u2014 there is open stud/cubby framing visible below the left portion of the counter shelf that does not appear in the blueprint; this may be structural backing but is not called out in the design"
+    ],
+    "materials_still_needed": [
+      "1x 4-pane black aluminum frame window (4'6\" wide x 5' tall) for right opening",
+      "6x bar stools (round wood seat, black hairpin legs)",
+      "Sage green paint \u2014 sufficient for lower half of 14'6\" wall",
+      "White paint \u2014 sufficient for upper half of 14'6\" wall",
+      "Wood laminate flooring \u2014 enough to cover floor area in front of counter",
+      "2x duplex electrical outlets with cover plates",
+      "Drywall/finishing materials for right-side stud wall (currently exposed framing and insulation)",
+      "Joint compound, tape, and primer for wall finishing"
+    ],
+    "next_steps": [
+      "URGENT: Resolve right-side window opening \u2014 the current rough framing does not accommodate the specified 4'6\" x 5' window; reframe the opening to match blueprint dimensions and install the second 4-pane black aluminum window",
+      "Close up and finish the right-side stud wall \u2014 install drywall over the exposed framing and insulation, tape, mud, and sand to match the left wall surface",
+      "Install 2x duplex electrical outlets between the windows at the specified location, then proceed with wall finishing (patching, priming, painting sage green lower / white upper) and flooring installation"
+    ],
+    "spatial_observations": "The left window appears correctly sized and positioned relative to the blueprint's 4'6\" width specification. However, the right side of the wall is still in rough framing \u2014 exposed 2x4 studs with fiberglass insulation visible, and only a narrow vertical window slit (perhaps 12-14\" wide) rather than the matching 4'6\" wide 4-pane window called for in the blueprint. The counter shelf is mounted at what appears to be approximately the correct height (roughly 3' below window sill level), but the bracket configuration differs from the blueprint \u2014 more brackets are visible and their spacing does not appear to match the 14\" center-to-center specification. The sub-counter area on the left shows cubby-like framing that is not referenced in the blueprint and may need to be enclosed or removed. The overall wall width appears close to the 14'6\" specification, but the asymmetry between the finished left side and raw-framed right side is a major concern. The 18\" overhang on the right end of the counter (per blueprint) cannot be verified until the right wall section is completed. Dimensional accuracy of the counter depth (12\") appears reasonable from the photo perspective.",
+    "confidence": "medium"
+  }
+}
