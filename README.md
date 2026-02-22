@@ -1,4 +1,13 @@
 # 🏗️ TerraVision
+### Bringing Spatial Intelligence to the Skeleton of the Building
+**Ironsite × UMD Startup Shell Hackathon · February 2026**
+## 🎥 Video Presentation
+
+A full walkthrough of TerraVision, including live demo:
+
+[Watch on YouTube →](https://youtu.be/KZsGjBpss1A)
+
+
 
 ## Inspiration
 
@@ -42,7 +51,7 @@ YOLOv8 scans the site photo and detects what is physically present in the frame.
 ### 3. Spatial Diff Engine
 Our diff engine compares the blueprint dataset with the detected site dataset and flags every gap and mismatch.
 
-### 4. Reasoning Layer (LLM)
+### 4. LLM Reasoning and Action Planning Layer
 Claude takes those mismatches and converts them into a human-readable action plan.
 
 Everything is wrapped in a **Streamlit web application** that works on any device directly on site.
@@ -134,28 +143,6 @@ The long-term vision is a system where workers can see the digital blueprint anc
 
 
 
-
-
-# 🏗️ TerraVision
-### AI Construction Progress Analyzer
-**Ironsite × UMD Startup Shell Hackathon · February 2026**
-
----
-
-## What It Does
-
-Upload a **blueprint**, a **site photo**, and a **materials manifest**, TerraVision tells you:
-
-- **How complete** the construction is (%)
--  **What's missing** vs the blueprint
-- **What's wrong** (misaligned, wrong size, wrong count)
-- **What materials** are still needed
--  **What to do next** (prioritized)
-
----
-
-
-
 ## Project Structure 
 
 ```
@@ -177,8 +164,8 @@ TerraVision/
 │
 └── data/
     ├── inputs/
-    │   ├── blueprint.jpg          ← your blueprint image (add this)
-    │   ├── site_partial.jpg       ← partial site photo (add this)
+    │   ├── blueprint.jpg          
+    │   ├── site_partial.jpg       
     │   └── materials_manifest.txt
     └── outputs/                   ← results saved here
 ```
