@@ -71,7 +71,7 @@ export ANTHROPIC_API_KEY=sk-ant-your-key-here
 ```bash
 streamlit run app.py
 ```
-Open http://localhost:8501
+Open http://localhost:xxxx
 
 **Option B — CLI (for testing):**
 ```bash
