@@ -1,0 +1,1082 @@
+[
+    {
+        "RoomName": "Foyer",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138157",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.191499999999984,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.19500000000004,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.19500000000004,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139939",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.791499999999991,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138237",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 8.382999999999972,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Hallway",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143478",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144633",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 2.235499999999982,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144518",
+                "Unconnected Height": 3.388000000000012,
+                "Length": 2.235499999999981,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bathroom 1",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.195000000000043,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.1915,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):189901",
+                "Unconnected Height": 3.100000000000196,
+                "Length": 2.508000000000044,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):189901",
+                "Unconnected Height": 3.100000000000196,
+                "Length": 2.508000000000044,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):190140",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 1.594000000000002,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Foyer",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138062",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 8.383000000000001,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138310",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.1915,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.195000000000043,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.195000000000043,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):138584",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.791499999999996,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Hallway",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143590",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143960",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 2.235499999999992,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143856",
+                "Unconnected Height": 3.388000000000208,
+                "Length": 2.2355,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Utility",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144684",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):193247",
+                "Unconnected Height": 2.595000000000013,
+                "Length": 4.314000000000004,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):203998",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.662000000000019,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Utility",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144301",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):194166",
+                "Unconnected Height": 2.595000000000013,
+                "Length": 4.313999999999995,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):203347",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.66199999999999,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Stair",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138157",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.191499999999984,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Room",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138310",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139347",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.1915,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Roof",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:184944",
+                "Unconnected Height": 0.6090000000000002,
+                "Length": 8.383000000000001,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:185101",
+                "Unconnected Height": 0.6090000000000002,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:185064",
+                "Unconnected Height": 0.6090000000000002,
+                "Length": 8.382999999999972,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:185014",
+                "Unconnected Height": 0.6090000000000002,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Living Room",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138062",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 8.383000000000001,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):138584",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.791499999999996,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138157",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Living Room",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138237",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 8.382999999999972,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139939",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.791499999999991,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138310",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Kitchen",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138310",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.19500000000004,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139783",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 1.594,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):190933",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.485499999999999,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Kitchen",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:138157",
+                "Unconnected Height": 3.100000000000378,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139143",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.195000000000043,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):190140",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 1.594000000000002,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):189074",
+                "Unconnected Height": 3.100000000000196,
+                "Length": 4.485499999999986,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bathroom 2",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):203347",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.66199999999999,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):194166",
+                "Unconnected Height": 2.595000000000013,
+                "Length": 4.313999999999995,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bathroom 2",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):203998",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.662000000000019,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):193247",
+                "Unconnected Height": 2.595000000000013,
+                "Length": 4.314000000000004,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144783",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bathroom 1",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:139234",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 4.191499999999984,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):190774",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 2.508000000000034,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Furring (152 mm Stud):190774",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 2.508000000000034,
+                "Width": 0.152,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139783",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 1.594,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):139682",
+                "Unconnected Height": 2.795000000000378,
+                "Length": 3.19500000000004,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bedroom 2",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143410",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 8.383000000000001,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143590",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143856",
+                "Unconnected Height": 3.388000000000208,
+                "Length": 2.2355,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143856",
+                "Unconnected Height": 3.388000000000208,
+                "Length": 2.2355,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144138",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bedroom 1",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144684",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144684",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144633",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 2.235499999999982,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143478",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143410",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 8.383000000000001,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bedroom 1",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144301",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144301",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.95599999999999,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143921",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):143960",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 2.235499999999992,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143590",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143534",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 8.382999999999972,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    },
+    {
+        "RoomName": "Bedroom 2",
+        "Walls": [
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.5500000000000002,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143534",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 8.382999999999972,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Exterior - Brick on Block:143478",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 17.38299999999997,
+                "Width": 0.4170000000000001,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144518",
+                "Unconnected Height": 3.388000000000012,
+                "Length": 2.235499999999981,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144518",
+                "Unconnected Height": 3.388000000000012,
+                "Length": 2.235499999999981,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Partition (92mm Stud):144586",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 5.423999999999994,
+                "Width": 0.124,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144783",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            },
+            {
+                "Name": "Basic Wall:Interior - Plumbing (152mm Stud):144783",
+                "Unconnected Height": 2.900000000000013,
+                "Length": 1.956000000000018,
+                "Width": 0.184,
+                "NominalHeight": "NominalHeight",
+                "NominalLength": "NominalLength",
+                "NominalWidth": "NominalWidth"
+            }
+        ],
+        "Windows": []
+    }
+]
