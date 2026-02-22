@@ -9,15 +9,13 @@ import os
 import sys
 import json
 
-# Make sure src/ is importable
 sys.path.insert(0, os.path.dirname(__file__))
-
 from src.blueprint import process_blueprint
 from src.photo import process_site_photo
 from src.diff import compute_diff
 from src.claude import claude_analysis
 
-# ── Page config ───────────────────────────────────────────────────────────────
+# ── Page config
 st.set_page_config(
     page_title="TerraVision",
     page_icon="🏗️",
@@ -52,17 +50,17 @@ h1, h2, h3 { color: #f97316 !important; }
 </style>
 """, unsafe_allow_html=True)
 
-# ── Header ────────────────────────────────────────────────────────────────────
+# ── Header
 st.markdown("# 🏗️ TerraVision")
 st.markdown("**Spatial Intelligence Pipeline** — Blueprint × Site Photo × Materials Manifest")
 st.caption("Ironsite × UMD Startup Shell Hackathon · Feb 2026")
 st.divider()
 
-# ── Default manifest ──────────────────────────────────────────────────────────
+# ── Default manifest
 MANIFEST_PATH = os.path.join(os.path.dirname(__file__), "data", "inputs", "materials_manifest.txt")
 DEFAULT_MANIFEST = open(MANIFEST_PATH).read() if os.path.exists(MANIFEST_PATH) else ""
 
-# ── Inputs ────────────────────────────────────────────────────────────────────
+# ── Inputs
 col1, col2 = st.columns(2)
 
 with col1:
@@ -92,7 +90,7 @@ with st.expander("⚙️ Settings"):
 st.divider()
 run_btn = st.button("🔍 Analyze Construction Progress")
 
-# ── Run ───────────────────────────────────────────────────────────────────────
+# ── Run
 if run_btn:
     if not bp_file or not ph_file:
         st.error("Please upload both images.")
@@ -133,7 +131,7 @@ if run_btn:
                 st.error(f"Error: {e}")
                 bar.empty()
 
-# ── Results ───────────────────────────────────────────────────────────────────
+# ── Results
 if "result" in st.session_state:
     a = st.session_state["result"]
 
