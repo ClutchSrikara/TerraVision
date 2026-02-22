@@ -6,13 +6,13 @@
 
 ## What It Does
 
-Upload a **blueprint**, a **site photo**, and a **materials manifest** — TerraVision tells you:
+Upload a **blueprint**, a **site photo**, and a **materials manifest**, TerraVision tells you:
 
-- 📊 **How complete** the construction is (%)
-- ❌ **What's missing** vs the blueprint
-- ⚠️ **What's wrong** (misaligned, wrong size, wrong count)
-- 📦 **What materials** are still needed
-- 🔨 **What to do next** (prioritized)
+- **How complete** the construction is (%)
+-  **What's missing** vs the blueprint
+- **What's wrong** (misaligned, wrong size, wrong count)
+- **What materials** are still needed
+-  **What to do next** (prioritized)
 
 ---
 
